@@ -1,5 +1,5 @@
 # test-hanna
-The Python code includes functionalities for reading multiple JSON objects from files, analyzing timestamps, identifying sparse variables, and examining geographical regions and ocean ports.
+The Python code includes functionalities for reading multiple JSON objects from files, analyzing timestamps, identifying sparse variables, and examining geographical regions and ocean ports. Please note zip file was added in local version. Please add it in your local code due to github limits. 
 Prerequisites
 Ensure you have the following libraries installed:
 
