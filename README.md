@@ -3,7 +3,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Hanna1112H/currency-pipeline-](https://github.com/Hanna1112H/test_DS)
+    git clone [https://github.com/Hanna1112H/test_DS](https://github.com/Hanna1112H/test_DS)
     cd test_DS
     ```
 
